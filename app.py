@@ -47,7 +47,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 with st.sidebar:
-    st.image("https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Remington_typewriter.jpg/640px-Remington_typewriter.jpg", use_container_width=True)
+    st.image("maquina.jpg", use_container_width=True)
     st.title("Modo de lectura")
     modo = st.selectbox(
         "¿Cómo deseas compartir tu manuscrito?",
