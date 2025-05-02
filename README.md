@@ -1,0 +1,2 @@
+# AnalisisTexto
+Analizador de sentimientos
